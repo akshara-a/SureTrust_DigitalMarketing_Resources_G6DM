@@ -145,7 +145,7 @@ Your brand voice is the **consistent tone and style** you use across all communi
 
 ---
 
-## 8. Summary Checklist — Branding Essentials
+## 8. Summary Checklist - Branding Essentials
 ✅ Logo (scalable, simple, versatile)  
 ✅ Color palette (aligned with psychology & accessibility)  
 ✅ Typography rules (2–3 fonts, readable, on-brand)  
