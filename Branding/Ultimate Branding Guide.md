@@ -3,7 +3,7 @@
 ## 1. What is Branding?
 Branding is the **art and science** of shaping how people perceive your business.
 
-It’s not *just* your logo or colors — it’s the *total experience* a person has when interacting with your brand.  
+It’s not *just* your logo or colors, it’s the *total experience* a person has when interacting with your brand.  
 Think of branding as your **business’s personality** and **reputation** rolled into one.
 
 A strong brand:
@@ -56,6 +56,8 @@ Shifting the way your brand is perceived to align with new goals, markets, or cu
 
 **Example:**  
 Old Spice moved from “grandpa’s cologne” to a bold, funny, youth-oriented brand with its "The Man Your Man Could Smell Like" campaign.
+
+Refer this - https://themarketinghustle.com/marketing-strategy/10-revolutionary-rebrands-that-redefined-their-industry
 
 ---
 
